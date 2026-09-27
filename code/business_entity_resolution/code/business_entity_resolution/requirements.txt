@@ -1,0 +1,7 @@
+pandas
+scikit-learn>=1.8.0
+rapidfuzz>=3.14
+numpy
+sentence-transformers>=6.0
+torch>=2.2
+tqdm
